@@ -1,6 +1,6 @@
 # Data Structures Exploration
 
-Welcome to the Data Structures Exploration repository, where I delve into the construction, analysis, and optimization of various data structures. This repository is a testament to collaborative learning and a shared space where both my lab partner and I merge our intellectual curiosity with practical programming skills.
+Welcome to the Data Structures Exploration repository, where I delve into the construction, analysis, and optimization of various data structures using C++. This repository is a testament to collaborative learning and a shared space where both my lab partner and I merge our intellectual curiosity with practical programming skills.
 
 ## Repository Overview
 
