@@ -70,5 +70,5 @@ This project focuses on two hashing techniques:
 
 We examined the performance, load factors, and collision resolution efficiency of both methods. The findings are compiled in a comprehensive report with comparative analysis.
 
-## Note This repository is a culmination of joint work, demonstrating the collaborative spirit of scientific inquiry. All tests and benchmarks are conducted with a focus on transparency and academic rigor. We encourage you to explore the code, read the reports, and provide any feedback or suggestions.
+_Note: This repository is a culmination of joint work, demonstrating the collaborative spirit of scientific inquiry. All tests and benchmarks are conducted with a focus on transparency and academic rigor. We encourage you to explore the code, read the reports, and provide any feedback or suggestions._
 
