@@ -52,4 +52,4 @@ Findings and analyses are compiled into the `HashTables_BST_and_CuckooHashing_Re
 
 The report offers insights into the practical considerations of choosing appropriate hashing techniques based on application requirements.
 
-**Note**: This project emphasizes the importance of efficient data storage and retrieval mechanisms. All experiments are conducted methodically to ensure reliable and meaningful results.
+**Note**: This repository section is a culmination of joint work with a lab partner, demonstrating the collaborative spirit of scientific inquiry. All tests and benchmarks are conducted with a focus on transparency and academic rigor.
