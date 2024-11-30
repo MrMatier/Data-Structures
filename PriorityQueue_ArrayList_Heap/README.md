@@ -48,4 +48,4 @@ Findings and analyses are compiled into the `PriorityQueue_Array_vs_Heap_Report.
 
 The report provides a complete narrative from conceptual understanding to practical implications, reflecting the collaborative efforts made in studying these data structures.
 
-**Note**: This project demonstrates the practical application of data structures in solving problems efficiently. All tests and benchmarks are conducted with a focus on transparency and academic rigor.
+**Note**: This repository section is a culmination of joint work with a lab partner, demonstrating the collaborative spirit of scientific inquiry. All tests and benchmarks are conducted with a focus on transparency and academic rigor.
